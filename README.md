@@ -3,13 +3,6 @@
 ## Goal of the project
 The purpose of this project is to gain insights from the yearly transactions and customer data and understand the customers who purchase chips and their purchase behaviour from a  <b>chain of retail stores</b>. The insights from this analysis will help the supermarket's strategic plan for category review for upcoming years. A strategic recommendation (supported by data) is presented in form of a Tableau Story which can be instrumental in upcoming category review.
 
-## Tableau Data Story
-The Tableau Data Story can be found [here](https://public.tableau.com/views/RetailStoreStrategyandAnalytics/RetailAnalyticsAnalysisStory?:language=en&:display_count=y&:origin=viz_share_link).<br>
-<img src="data%20visualization/Retail_Strategy.gif" height="500" align="middle"><br>
-
-<b>In case of failure of loading Jupyter Notebooks on Github, the following notebooks can be found in nbviewer. Click on the respective hyperlinks to view:</b>
-- [Data Preparation.ipynb](https://nbviewer.jupyter.org/github/AbhishekGit-hash/Retail-Strategy-and-Analytics/blob/main/Data%20Preparation.ipynb)
-- [Data Analysis.ipynb](https://nbviewer.jupyter.org/github/AbhishekGit-hash/Retail-Strategy-and-Analytics/blob/main/Data%20Analysis.ipynb)
 
 
 ## Analysis Approach
@@ -104,11 +97,11 @@ The datasets used include:
 ## Tools and Technologies used
 The tools used in this project include:
 - __Python__ - This was needed to conduct <b>Data Quality Assessment</b> and also for <b>Data Cleaning processes</b>. With Python libraries <b>pandas, matplotlib, seaborn</b> exploratory data analysis of the datasets and to gain useful insights from the data was possible.
-- __Tableau__ - This <b>Business Intelligence</b> tool was required to explore data and create charts, graphs, visualizations to come up with a <b>data story</b> of the analysis of Retail Strategy. The Tableau Data Story can be found [here](https://public.tableau.com/views/RetailStoreStrategyandAnalytics/RetailAnalyticsAnalysisStory?:language=en&:display_count=y&:origin=viz_share_link)
+
 
 
 ## Built With
-- Python 3.8.2, Power BI
+- Python 3.8.2
 
 ## Authors
 - Rajashekhar Hipparagi- [Github Profile](https://github.com/Rajashekhar7259)
